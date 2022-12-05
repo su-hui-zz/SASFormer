@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SASFormer: Transformers for Sparsely Annotated Semantic Segmentation
 
 
@@ -58,3 +59,7 @@ If you have any question about our work or this repository, please don't hesitat
 
 ## Acknowledgment
 Our project references the codes of  [Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation (github.com)](https://github.com/megvii-research/TreeEnergyLoss) and [SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (github.com)](https://github.com/open-mmlab/mmsegmentation/tree/master/configs/segformer). Thanks for their works and sharing.
+=======
+# SASFormer
+transformer for sparsely annotated sementic segmentation
+>>>>>>> 9e5706667a605b65ec12f92e08495904b4bab374
