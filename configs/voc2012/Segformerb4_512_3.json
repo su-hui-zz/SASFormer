@@ -11,7 +11,7 @@
     },
    "train": {
       "loader": "voc2012",
-      "batch_size": 4,
+      "batch_size": 16,
       "data_transformer": {
         "size_mode": "fix_size",
         "input_size": [512, 512],
