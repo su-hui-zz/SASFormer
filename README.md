@@ -39,7 +39,7 @@ $DATA_ROOT
 ### Point-supervised and Scribble-supervised Settings  
 Supervised type can be rewrite as "scribble" or "point" in "annotation" of configs/voc2012/Segformerb4_512_3.json, we train and val in default scribble-supervised type.
 
-* bash scripts/voc2012/segf/train_b4_512_3.sh train
+* bash scripts/voc2012/segf/train_b4_512_3.sh train (export CUDA_VISIBLE_DEVICES=0,1,2,3)
 * bash scripts/voc2012/segf/train_b4_512_3.sh val (export CUDA_VISIBLE_DEVICES=2)
 
 Before training, we should put mix-transformer pre-trained weights in "./pretrained" directory. Pre-trained weight is also provided in [baidu](https://pan.baidu.com/s/1YWyn5uOocAiCjctsAW0Gyw  (0311))
