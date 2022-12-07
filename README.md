@@ -60,6 +60,7 @@ If you have any question about our work or this repository, please don't hesitat
 Our project references the codes of  [Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation (github.com)](https://github.com/megvii-research/TreeEnergyLoss) and [SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (github.com)](https://github.com/open-mmlab/mmsegmentation/tree/master/configs/segformer). Thanks for their works and sharing.
 
 ## Cite
+```
 @misc{su2022sasformer,
     title={SASFormer: Transformers for Sparsely Annotated Semantic Segmentation},
     author={Hui Su and Yue Ye and Wei Hua and Lechao Cheng and Mingli Song},
@@ -68,3 +69,4 @@ Our project references the codes of  [Tree Energy Loss: Towards Sparsely Annotat
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
