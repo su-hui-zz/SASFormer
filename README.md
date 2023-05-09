@@ -27,7 +27,8 @@ cd SASFormer
 
 ### Sparse Annotation Preparation
 * Please first follow the [Getting Started](https://github.com/openseg-group/openseg.pytorch/blob/master/GETTING_STARTED.md) for data preparation.
-* Download [scribble and point annotations](https://github.com/LEONOB2014/GatedCRFLoss/tree/master/datasets) provided by GatedCRFLoss Finally, the dataset directory should look like:
+* Download [scribble and point annotations](https://github.com/LEONOB2014/GatedCRFLoss/tree/master/datasets) (or https://pan.baidu.com/s/10u0WkYGVEQuHzkn2n_cgUQ 
+提取码：0311 ) provided by GatedCRFLoss Finally, the dataset directory should look like:
 ```
 $DATA_ROOT
 ├── voc2012
